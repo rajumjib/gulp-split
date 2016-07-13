@@ -1,0 +1,29 @@
+{
+  "name": "gulp-split",
+  "version": "1.0.0",
+  "description": "A gulp plugin for extract view, scripts, styles, etc. files from template file",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajumjib/gulp-split.git"
+  },
+  "keywords": [
+    "gulp",
+    "split"
+  ],
+  "author": "Jahirul Islam Bhuiyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajumjib/gulp-split/issues"
+  },
+  "homepage": "https://github.com/rajumjib/gulp-split#readme"
+}
