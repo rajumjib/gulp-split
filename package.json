@@ -1,14 +1,13 @@
 {
   "name": "gulp-split",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A gulp plugin for extract view, scripts, styles, etc. files from template file",
   "main": "index.js",
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-util": "^3.0.7"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "test"
   },
